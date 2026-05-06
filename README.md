@@ -5,7 +5,6 @@
     </td>
     <td width="60%">
       <h1>👋 Hi, I'm Ashit Negi</h1>
-
       <h3>🚀 Full Stack Developer | Real-time Systems | AI Integrations</h3>
 
       <p>
@@ -13,11 +12,11 @@
         real-time systems, and AI-powered tools.
       </p>
 
-      <p>
-        ⚡ Built API Billing Platform (Stripe + Gateway)<br>
-        ⚡ Built Real-time Mentor Platform (WebRTC + Socket.io)<br>
-        ⚡ Built AI Data Analysis System (LLM + Visualization)
-      </p>
+      <ul>
+        <li>⚡ Built API Billing Platform (Stripe + Gateway)</li>
+        <li>⚡ Built Real-time Mentor Platform (WebRTC + Socket.io)</li>
+        <li>⚡ Built AI Data Analysis System (LLM + Visualization)</li>
+      </ul>
 
       <p>
         📍 Dehradun, India <br>
