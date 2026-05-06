@@ -1,27 +1,71 @@
-<table>
-  <tr>
-    <td width="40%">
-      <img src="https://avatars.githubusercontent.com/Ashit-Negi" width="100%" style="border-radius:50%" />
-    </td>
-    <td width="60%">
-      <h1>👋 Hi, I'm Ashit Negi</h1>
-      <h3>🚀 Full Stack Developer | Real-time Systems | AI Integrations</h3>
+## 👋 Hi, I'm Ashit Negi
 
-      <p>
-        I build scalable real-world applications including API monetization platforms,
-        real-time systems, and AI-powered tools.
-      </p>
+### 🚀 Full Stack Developer | Real-time Systems | API Platforms | AI Integrations
 
-      <ul>
-        <li>⚡ Built API Billing Platform (Stripe + Gateway)</li>
-        <li>⚡ Built Real-time Mentor Platform (WebRTC + Socket.io)</li>
-        <li>⚡ Built AI Data Analysis System (LLM + Visualization)</li>
-      </ul>
+I build scalable real-world applications including API monetization platforms, real-time systems, and AI-powered tools.
 
-      <p>
-        📍 Dehradun, India <br>
-        📧 sashitnegi@gmail.com
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+## ⚡ What I’ve Built
+
+- ⚡ API Billing Platform (Stripe + Gateway)
+- ⚡ Real-time Mentor Platform (WebRTC + Socket.io)
+- ⚡ AI Data Analysis System (LLM + Visualization)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 ApiLedger — API Billing Platform
+Usage-based API monetization system like Stripe / RapidAPI
+
+- API key authentication  
+- Usage tracking & billing  
+- Stripe integration  
+- Central API gateway  
+
+🔗 https://github.com/Ashit-Negi/apiledger  
+
+---
+
+### 🧠 AI Data Analyst
+AI-powered CSV analysis using LLM
+
+- Natural language queries  
+- Data visualization  
+- Backend data processing  
+
+🔗 https://github.com/Ashit-Negi/AI_DATA_ANALYST
+
+---
+
+### 🎯 Mentor Platform (Real-time)
+1-on-1 real-time mentoring system
+
+- WebRTC video + chat  
+- Socket.io communication  
+- Session-based architecture  
+
+🔗 https://github.com/Ashit-Negi/mentor-session 
+
+---
+
+## 🛠 Tech Stack
+
+![Tech](https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgres,redis,docker)
+
+---
+
+## 🚧 Currently Working On
+
+- AI News Intelligence Platform  
+- Improving backend architecture & system design  
+- Exploring AI integrations in real-world apps  
+
+---
+
+
+## 📫 Connect With Me
+
+- Email: sashitnegi@gmail.com
+- Contact No. : +91 8077040296 
